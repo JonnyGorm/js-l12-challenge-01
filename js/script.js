@@ -9,3 +9,4 @@ const getImage = async function () {
     console.log(images)
 };
 getImage();
+
